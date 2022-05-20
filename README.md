@@ -33,6 +33,3 @@ Thanks for visiting!!!
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=aaronSE11)
   <br/>
   
-  **⭐️ From [aaronSE11](https://github.com/aaronSE11)**
-
-<br/>
