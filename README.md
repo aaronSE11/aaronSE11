@@ -3,11 +3,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-aaronse513-white?style=flat&logo=Gmail&logoColor=red&link=mailto:aaronse513@gmail.com)](mailto:aaronse513@gmail.com)
 
 <br/>
-
+<h1>
 Welcome to my profile!!! I'm a 1st year engineer student, hobbie developer and a full-time learning Enthusiast. <br/>
 I like contributing to the community and help others.
 Thanks for visiting!!!
-
+</h1>
 
 <h2 align="center">
   Here are some technologies I use and more in progress🙂:
