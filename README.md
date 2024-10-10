@@ -4,7 +4,7 @@
 
 <br/>
 <h3>
-Welcome to my profile!!! I'm a 1st year engineer student, hobbie developer and a full-time learning Enthusiast. <br/>
+Welcome to my profile!!! I'm a 2nd year engineer student, hobbie developer and a full-time learning Enthusiast. <br/>
 I like contributing to the community and help others.
 Thanks for visiting!!!
 </h3>
